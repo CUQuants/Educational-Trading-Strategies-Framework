@@ -9,9 +9,6 @@ Strategies included:
 1. Moving Average Crossover
 2. Mean Reversion
 3. Custom Strategy (template for creating your own)
-
-Author: Claude
-Date: March 10, 2025
 """
 
 import yfinance as yf
